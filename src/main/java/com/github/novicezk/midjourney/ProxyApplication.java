@@ -13,7 +13,7 @@ import spring.config.WebMvcConfig;
 public class ProxyApplication {
 
 	public static void main(String[] args) {
-	
+		System.out.println("Hello, World!测试Hello, World!测试Hello, World!测试Hello, World!测试");
 		SpringApplication.run(ProxyApplication.class, args);
 	}
 
