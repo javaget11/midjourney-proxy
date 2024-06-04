@@ -13,7 +13,7 @@ import spring.config.WebMvcConfig;
 public class ProxyApplication {
 
 	public static void main(String[] args) {
-		System.out.printf("修改成功后")
+		System.out.println("修改成功后")
 		SpringApplication.run(ProxyApplication.class, args);
 	}
 
