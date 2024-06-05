@@ -1,4 +1,8 @@
 mj:
+  discord:
+    core-size:100
+    queue-size:1000
+    timeout-minutes:60
   task-store:
     type: in_memory
     timeout: 30d
